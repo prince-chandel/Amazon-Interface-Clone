@@ -21,6 +21,6 @@ Font Awesome: For icons used in the navigation and cart sections.
 **How to View the Project**
 Clone the repository:
 <br>
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/prince-chandel/Amazon-Interface-Clone.git
 <br>
 Open index.html in your browser to view the clone.
